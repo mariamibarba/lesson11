@@ -100,10 +100,7 @@ li a{
     margin: 20px auto;
 
 }
-.photo{
-    width: 150px;
-    height: 150px;
-}
+
 .call-box{
     display: flex;
     flex-wrap: wrap;
